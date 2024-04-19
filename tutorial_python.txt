@@ -1,1 +1,4 @@
 INICIANDO TUTORIAL
+
+O que é Python?
+Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. É conhecida por sua simplicidade e legibilidade, o que a torna uma ótima escolha para iniciantes e profissionais.
