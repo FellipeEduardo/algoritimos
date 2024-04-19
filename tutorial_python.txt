@@ -8,3 +8,21 @@ Acesse o site oficial do Python em python.org.
 Clique em "Downloads" no menu principal.
 Selecione a versão do Python que deseja baixar. Recomenda-se usar a versão mais recente, a menos que tenha necessidade específica de uma versão mais antiga.
 Escolha o sistema operacional correto (Windows, macOS, Linux) e clique para baixar o instalador.
+
+asso a passo de instalação:
+Windows:
+
+Após o download, execute o instalador.
+Marque a opção "Add Python x.x to PATH" durante o processo de instalação.
+Clique em "Install Now" e siga as instruções na tela.
+Após a conclusão, verifique se a instalação foi bem-sucedida abrindo o prompt de comando e digitando python --version.
+macOS:
+
+Execute o instalador baixado.
+Siga as instruções na tela. Não se esqueça de verificar a opção para adicionar o Python ao PATH.
+Após a instalação, abra o Terminal e digite python3 --version para verificar se o Python foi instalado corretamente.
+Linux:
+
+Dependendo da sua distribuição, o Python pode já estar instalado. Caso contrário, abra o terminal e digite sudo apt install python3 para instalar o Python 3.
+Verifique a instalação digitando python3 --version.
+Depois de seguir esses passos, você estará pronto para começar a programar em Python!
