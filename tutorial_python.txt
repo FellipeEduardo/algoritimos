@@ -2,3 +2,9 @@ INICIANDO TUTORIAL
 
 O que é Python?
 Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. É conhecida por sua simplicidade e legibilidade, o que a torna uma ótima escolha para iniciantes e profissionais.
+
+Passo a passo para download:
+Acesse o site oficial do Python em python.org.
+Clique em "Downloads" no menu principal.
+Selecione a versão do Python que deseja baixar. Recomenda-se usar a versão mais recente, a menos que tenha necessidade específica de uma versão mais antiga.
+Escolha o sistema operacional correto (Windows, macOS, Linux) e clique para baixar o instalador.
